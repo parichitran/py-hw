@@ -1,4 +1,3 @@
-import sys
 n=raw_input("Enter the value\n")
 n=int(n)
 x=0
