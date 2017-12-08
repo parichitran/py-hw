@@ -1,4 +1,4 @@
-a,b=raw_input("Enter the values\n").split()
+a,b=raw_input("Enter the two numbers\n").split()
 a=int(a)
 b=int(b)
 n=max(a,b)

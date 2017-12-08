@@ -16,8 +16,7 @@ for y in range(1,l+1):
     n=n+2
     z=z+2
 s=n%7
-print n
-print z
+print "The given year starts with ",
 if s==0:
     print "sunday"
 elif s==1:
