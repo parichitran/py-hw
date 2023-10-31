@@ -1,4 +1,3 @@
 # py-hw
-## Python homework
- 1. One.py - example first program hellow world
-#test
+## Relearning scripting with python ##
+Basic and famous python scripts like making triangle,leap calender etc.....
